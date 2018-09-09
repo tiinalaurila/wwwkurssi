@@ -1,2 +1,2 @@
 # wwwkurssi
-www- kurssille tehtävä repo
+hello world o7
